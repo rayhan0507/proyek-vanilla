@@ -1,0 +1,12 @@
+# Abaikan file hasil kompilasi
+*.exe
+*.out
+*.o
+*.obj
+
+# Folder internal VS Code
+.vscode/
+
+# File backup sementara
+*.log
+*.tmp
